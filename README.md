@@ -38,25 +38,16 @@ Datasets:
 - Jupyter Notebook
 - Git & GitHub
 
-## Project Structure
+## Repository Structure
 
-```text
-1_macroeconomic_analysis/
-│
-├── data/
-│   ├── exchange_rates.xls
-│   ├── exchange_rates_clean.csv
-│   ├── inflation.xlsx
-│   ├── inflation_clean.csv
-│   ├── salary.xlsx
-│   ├── salary_clean.csv
-│   └── final_macro_data.csv
-│
-├── notebooks/
-│   └── macro_analysis.ipynb
-│
-├── .gitignore
-└── README.md
-```
-│
-└── README.md
+* [**data**](./data)
+    * Raw and cleaned macroeconomic datasets
+    * Exchange rates, inflation, salaries, and final merged dataset
+
+* [**notebooks**](./notebooks)
+    * Jupyter notebook with data cleaning, EDA, visualizations, and correlation analysis
+
+* **Main Files**
+    * `macro_analysis.ipynb` — Full macroeconomic analysis workflow
+    * `final_macro_data.csv` — Final cleaned dataset used for analysis
+
