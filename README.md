@@ -55,9 +55,8 @@ Datasets:
 ├── notebooks/
 │   └── macro_analysis.ipynb
 │
+├── .gitignore
 └── README.md
 ```
-├── notebooks/
-│   └── macro_analysis.ipynb
 │
 └── README.md
