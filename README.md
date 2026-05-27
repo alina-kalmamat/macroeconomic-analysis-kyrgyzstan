@@ -38,10 +38,9 @@ Datasets:
 - Jupyter Notebook
 - Git & GitHub
 
----
-
 ## Project Structure
 
+```text
 1_macroeconomic_analysis/
 │
 ├── data/
@@ -53,6 +52,11 @@ Datasets:
 │   ├── salary_clean.csv
 │   └── final_macro_data.csv
 │
+├── notebooks/
+│   └── macro_analysis.ipynb
+│
+└── README.md
+```
 ├── notebooks/
 │   └── macro_analysis.ipynb
 │
