@@ -46,6 +46,9 @@ Datasets:
 
 * [**notebooks**](./notebooks)
     * Jupyter notebook with data cleaning, EDA, visualizations, and correlation analysis
+    * 
+Notebook Preview:
+- [View notebook in NBViewer](https://nbviewer.org/github/alina-kalmamat/macroeconomic-analysis-kyrgyzstan/blob/main/notebooks/macro_analysis.ipynb)
 
 * **Main Files**
     * `macro_analysis.ipynb` — Full macroeconomic analysis workflow
